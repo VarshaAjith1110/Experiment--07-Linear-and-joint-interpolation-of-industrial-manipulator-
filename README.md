@@ -36,7 +36,8 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
+## DART studio screen shots for linear interpolation 
+# Linear Interpolation:
 ![image](https://user-images.githubusercontent.com/94222288/205094763-c7fbfee8-683c-4377-b5a0-c5e93f84c1fb.png)
 
 
@@ -48,7 +49,8 @@ DART studio screen shots for linear interpolation
 
 
 
-DART studio screen shots for joint interpolation 
+## DART studio screen shots for joint interpolation 
+# Circular Interpolation:
 ![image](https://user-images.githubusercontent.com/94222288/205094929-249006f1-8432-4bb6-9b48-073464b8b958.png)
 
 
